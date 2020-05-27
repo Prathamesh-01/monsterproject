@@ -28,6 +28,12 @@
   color: #61dafb;
 }
 
+h1 {
+  font-family: 'Chelsea Market', cursive;
+  font-size: 52px;
+  font-weight: 800;
+  color: white;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
